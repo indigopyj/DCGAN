@@ -1,7 +1,7 @@
 # DCGAN with CelebA dataset
 
 
-[!DCGAN](./images/DCGAN.jpeg)
+![DCGAN](./images/DCGAN.jpeg)
 DCGAN의 구조
 
 
