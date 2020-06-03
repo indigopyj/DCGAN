@@ -2,6 +2,7 @@
 
 
 ![DCGAN](./images/DCGAN.jpeg)
+
 DCGAN의 구조
 
 
